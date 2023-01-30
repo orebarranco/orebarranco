@@ -9,8 +9,9 @@ Graduated as a computer engineer, working in Computer Network Administration for
 
 👨‍💻 I’m currently working on web development, coding skills.  
 👯 I’m looking to collaborate on Laravel and Open Source web projects  
-🌱 I’m currently learning ..  
 💬 Ask me about anything, I am happy to help.  
+
+[comment]: # (🌱 I’m currently learning ..  )
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advaithunni2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oreste-barranco-hdez) [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oreste_barranco)  
