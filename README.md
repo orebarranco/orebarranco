@@ -46,7 +46,9 @@ Graduated as a computer engineer, working in Computer Network Administration for
 
 <div align=center>
 
-![Statics](https://github-readme-stats.vercel.app/api?username=orebarranco&count_private=true&theme=ayu-mirage&show_icons=true&icon_color=DB9740")
-![Streak](https://streak-stats.demolab.com?user=orebarranco&theme=ayu-mirage&mode=weekly&currStreakNum=DB9740&fire=DB9740&currStreakLabel=DB9740)
-</div>
+![Statics](https://github-readme-stats.vercel.app/api?username=orebarranco&count_private=true&theme=ayu-mirage&show_icons=true&icon_color=DB9740&custom_title=GitHub%20Stats)  
 
+![Streak](https://streak-stats.demolab.com?user=orebarranco&theme=ayu-mirage&mode=weekly&currStreakNum=DB9740&fire=DB9740&currStreakLabel=DB9740)  
+
+![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=orebarranco&bg_color=1F2430&custom_title=Contribution%20Graph&title_color=E9C478&color=C6C7C1&line=F3CC7C&point=DB9740&area=true&area_color=D2B270)
+</div>
