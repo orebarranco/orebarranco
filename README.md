@@ -10,7 +10,7 @@ Graduated as a computer engineer, working in Computer Network Administration for
 💬 Ask me about anything, I am happy to help.  
 
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advaithunni2000@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orebarranco90@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oreste-barranco-hdez) [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oreste_barranco)  
 
 ## 🧰 Languajes and Tools
