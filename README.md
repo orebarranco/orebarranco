@@ -24,14 +24,16 @@ Production-ready Laravel 13 API boilerplate for scalable applications:
 
 ---
 
-### Laravel Filament Starter Kit *(coming soon)*
+### Filament DDD Starter Kit
 
-Starter kit to build admin panels and internal tools faster with Filament:
+Production-ready starter kit for admin panels built on **FilamentPHP v5** with full **Domain-Driven Design** architecture:
 
-- Preconfigured admin panel structure
-- Role & permission system
-- Clean and scalable resource organization
-- Reusable components and patterns
+- `src/Domain/` fully decoupled from Filament — Actions, DTOs, Models per domain
+- Role & permission system (Spatie Permission + Filament Shield)
+- Filament Pages delegate to Domain Actions, zero business logic in UI
+- Static analysis with Larastan (PHPStan) + Rector + Pest 4
+
+👉 https://github.com/orebarranco/filament-ddd-starter *(Packagist coming soon)*
 
 ---
 
