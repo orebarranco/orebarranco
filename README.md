@@ -52,12 +52,6 @@ laravel new my-panel --using=orebarranco/filament-ddd-starter
 
 ---
 
-## 📊 Impact & Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=orebarranco&theme=ayu-mirage&mode=weekly&hide_border=true)
-
----
-
 ## 🧠 Focus Areas
 
 - Laravel API architecture design
