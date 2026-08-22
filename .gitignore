@@ -1,0 +1,5 @@
+# JetBrains IDE
+.idea/
+
+# gentle-ai local skill registry (machine-local, regenerable)
+.atl/
